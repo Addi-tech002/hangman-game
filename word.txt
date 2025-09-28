@@ -1,0 +1,147 @@
+easy:PYTHON - A popular programming language
+easy:HANGMAN - A classic word guessing game
+easy:DEVELOPER - A person who writes code
+easy:KEYBOARD - Input device with keys
+easy:CODE - A set of programming instructions
+easy:MONITOR - A computer display screen
+easy:VARIABLE - A container for storing data values
+easy:FUNCTION - A block of reusable code
+easy:LAPTOP - A portable computer
+easy:HARDWARE - Physical components of a computer
+easy:SOFTWARE - Programs and operating systems
+easy:INTEGER - A whole number data type
+easy:LOOP - A control structure for repetition
+easy:ARRAY - A list of elements in order
+easy:STRING - A sequence of characters
+easy:CONSOLE - A text interface for output
+easy:EDITOR - A tool for writing code
+easy:VERSION - A specific form of a program
+easy:INTERNET - A global network for communication
+easy:NETWORK - A group of connected computers
+easy:BROWSER - A program to surf the web
+easy:PROGRAM - A set of instructions
+easy:MOUSE - A device used to point and click
+easy:CLICK - To press a mouse button
+easy:ICON - A small image representing a program
+easy:FILE - A container for storing data
+easy:FOLDER - A place to organize files
+easy:SAVE - To store your work permanently
+easy:PRINT - To produce a paper copy
+easy:OPEN - To access a file or program
+easy:CLOSE - To exit a file or program
+easy:PASTE - To insert copied content
+easy:COPY - To duplicate content
+easy:CUT - To remove and store content temporarily
+easy:UNDO - To reverse the last action
+easy:REDO - To repeat the last undone action
+easy:LOAD - To bring content into a program
+easy:EXIT - To leave a program
+easy:TYPING - Inputting text using a keyboard
+easy:MENU - A list of options in software
+easy:TOOL - A feature that helps perform a task
+easy:GAME - A structured form of play
+easy:PLAY - To engage in a game or activity
+easy:LEVEL - A stage in a game
+easy:SCORE - The points you earn in a game
+easy:WIN - To succeed in a game or challenge
+easy:LOSE - To fail in a game or challenge
+easy:START - To begin something
+easy:END - To stop or finish something
+easy:TAB - A key for switching focus
+easy:LOCK - To secure a system or device
+easy:USER - A person using a computer
+easy:LOGIN - To access a system
+easy:SIGNUP - To create an account
+easy:PAGE - A single screen of content
+easy:BEEP - A short sound alert
+easy:LIGHT - Brightness emitted by a screen
+easy:CHARGE - To supply power to a device
+
+medium:PYGAME - A Python library for making games
+medium:DEBUG - Process of finding and fixing bugs
+medium:COMPILE - Convert code to machine language
+medium:TERMINAL - Text-based interface for commands
+medium:SCRIPT - A small program or code file
+medium:RUNTIME - When a program is running
+medium:SYNTAX - Rules of a programming language
+medium:BOOLEAN - A data type with True or False
+medium:OPERATOR - Symbol that performs operations
+medium:CLASS - A blueprint for creating objects
+medium:OBJECT - An instance of a class
+medium:METHOD - A function inside a class
+medium:GITHUB - A platform for code collaboration
+medium:COMMIT - A saved change in Git
+medium:ENCAPSULATION - Wrapping data and code together
+medium:INHERITANCE - Deriving a class from another
+medium:POLYMORPHISM - Same interface, different behavior
+medium:ENCODING - Converting data into a specific format
+medium:DECODING - Reversing encoded data
+medium:INSTANCE - A specific object of a class
+medium:PACKAGE - A namespace for modules in Python
+medium:MODULE - A file containing Python code
+medium:IMPORT - To bring in external code
+medium:EXCEPTION - An error detected during execution
+medium:HANDLER - A block that handles exceptions
+medium:LOADER - Part of program that loads code
+medium:BUILDER - A tool that compiles or assembles code
+medium:CACHE - A storage for quick data access
+medium:BUFFER - Temporary memory storage
+medium:THREAD - A small unit of a process
+medium:PROCESS - An executing program instance
+medium:SCHEDULER - Component that manages process execution
+medium:TOKEN - A single element in code parsing
+medium:PARSE - Analyze code structure
+medium:INDENTATION - Code spacing used in Python
+medium:STATIC - Fixed or unchanging
+medium:DYNAMIC - Changing during execution
+medium:ATTRIBUTE - A property of an object
+medium:REFERENCE - A pointer to data
+medium:MUTABLE - Can be changed after creation
+medium:IMMUTABLE - Cannot be changed after creation
+medium:TUPLE - An immutable list
+medium:DICTIONARY - A key-value data structure
+medium:CONSTRUCTOR - A method to initialize objects
+medium:ITERATOR - An object for looping
+medium:GENERATOR - A function that yields values
+medium:BRANCH - A parallel version of a repository
+medium:MERGE - Combine code from different branches
+medium:SERVER - A computer that provides services
+medium:CLIENT - A computer that requests services
+medium:COOKIE - Data stored by websites
+medium:FRONTEND - The visual part of a website
+medium:BACKEND - The server-side logic of a site
+medium:DATABASE - A system for storing data
+medium:QUERY - A request for data
+medium:SQL - A language for databases
+medium:API - A way programs talk to each other
+medium:JSON - A lightweight data format
+medium:XML - A markup language
+medium:BINARY - A number system with 0s and 1s
+medium:STACK - A LIFO data structure
+medium:QUEUE - A FIFO data structure
+
+hard:RECURSION - A function calling itself
+hard:FULLSTACK - Both frontend and backend skills
+hard:ALGORITHM - A step-by-step procedure for solving a problem
+hard:ENCRYPTION - The process of securing data by encoding it
+hard:DECRYPTION - The process of converting encoded data back
+hard:MULTITHREADING - Executing multiple threads simultaneously
+hard:POLYMORPHISM - An object taking many forms in OOP
+hard:INHERITANCE - Deriving new classes from existing ones
+hard:ENCAPSULATION - Hiding internal details of an object
+hard:ABSTRACTION - Hiding complex implementation details
+hard:NORMALIZATION - Organizing data to reduce redundancy
+hard:DESERIALIZATION - Converting data from JSON/XML into objects
+hard:DEADLOCK - A state where processes wait indefinitely
+hard:ASYNC - Execution that doesn’t block the main thread
+hard:OPTIMIZATION - Improving performance or efficiency
+hard:ALGORITHMICS - The study of algorithms
+hard:VIRTUALIZATION - Creating virtual versions of devices or systems
+hard:CONCURRENCY - Managing multiple computations simultaneously
+hard:DEPENDENCY - A required component or library
+hard:INTEGRATION - Combining software parts into a system
+hard:AUTOMATION - Using scripts/tools to do tasks automatically
+hard:THROUGHPUT - Amount of work done in a given time
+hard:LATENCY - Delay before a transfer of data begins
+hard:SCALABILITY - Ability to handle growth in workload
+hard:REDUNDANCY - Duplicate systems to improve reliability

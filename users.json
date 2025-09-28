@@ -1,0 +1,106 @@
+{
+    "Alice": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "aditi": {
+        "matches_played": 10,
+        "wins": 0,
+        "losses": 10,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "Devank": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "anamika": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "Reeta": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "Addi": {
+        "matches_played": 27,
+        "wins": 18,
+        "losses": 9,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 1
+    },
+    "Aditi": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "Devank ": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "addi": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "anjali": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "ashi": {
+        "matches_played": 8,
+        "wins": 3,
+        "losses": 5,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 1
+    },
+    "max": {
+        "matches_played": 3,
+        "wins": 2,
+        "losses": 1,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 1
+    },
+    "poonam": {
+        "matches_played": 2,
+        "wins": 1,
+        "losses": 1,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 1
+    }
+}
