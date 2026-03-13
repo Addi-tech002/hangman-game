@@ -80,9 +80,9 @@
         "high_score": 0
     },
     "ashi": {
-        "matches_played": 8,
+        "matches_played": 16,
         "wins": 3,
-        "losses": 5,
+        "losses": 13,
         "challenges_attempted": 0,
         "challenge_score": 0,
         "high_score": 1
@@ -102,5 +102,53 @@
         "challenges_attempted": 0,
         "challenge_score": 0,
         "high_score": 1
+    },
+    "aryanshjain": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "aryanshjain ": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "Aryansh jain": {
+        "matches_played": 194,
+        "wins": 92,
+        "losses": 102,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 1
+    },
+    "Aryansh jain ": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "manoj": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
+    },
+    "aatmik": {
+        "matches_played": 0,
+        "wins": 0,
+        "losses": 0,
+        "challenges_attempted": 0,
+        "challenge_score": 0,
+        "high_score": 0
     }
 }
